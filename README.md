@@ -1,12 +1,20 @@
 # Taller02
-UNIVERSIDAD NACIONAL DE EL SALVADOR FACULTAD DE CIENCIAS ECONÓMICA, ESCUELA DE CONTADURIA PUBLICA 
+                   UNIVERSIDAD NACIONAL DE EL SALVADOR 
+                     FACULTAD DE CIENCIAS ECONÓMICAS
+                      ESCUELA DE CONTADURÍA PÚBLICA
+                       DEPARTAMENTO DE COMPUTACIÓN
+                             COMPUTACIÓN I
+                              CICLO-I-2026
 
-Trabajo Taller02
 
-Grupo téorico 7
+                                Taller02
 
-Equipo03
+                             Grupo téorico 7
 
-Integrantes 
+                                 Equipo03
+
+                               Integrantes 
+
+                               
 
 
