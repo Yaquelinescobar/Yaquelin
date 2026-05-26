@@ -11,14 +11,16 @@
 
                               Grupo téorico 7
 
+                     Ing. Luis Alonso Ventura Beltrán
+
                                  Equipo03
 
                                Integrantes 
-           AT26002-Ayala Torres, Madeline Tatiana- Coordinadora 
-                      CM24079-Cubias Muñoz, Dalila Abigail
-                     CH26009-Cañaz Hernández, Mónica Yaneth
-                     DL26008-Delgado Lemus, Josseline Janeth
-                   EL25001-Escobar Leiva, Yaquelin Del Carmen
+        1-  AT26002-Ayala Torres, Madeline Tatiana- Coordinadora 
+                  2- CM24079-Cubias Muñoz, Dalila Abigail
+                3- CH26009-Cañaz Hernández, Mónica Yaneth
+                4- DL26008-Delgado Lemus, Josseline Janeth
+              5-  EL25001-Escobar Leiva, Yaquelin Del Carmen
 
                                
 
