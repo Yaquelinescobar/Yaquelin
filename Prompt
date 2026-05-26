@@ -1,0 +1,12 @@
+# Prompt — Análisis de Ventas y Financiamiento de Equipos Tecnológicos
+Actúa como un analista financiero experto y genera un código en Python para realizar un análisis automatizado de ventas y financiamiento de equipos tecnológicos de una empresa llamada TechSolutions SV.
+El programa debe trabajar con un archivo de Excel llamado Equipo##.xlsx que contiene una pestaña llamada dataset con 35 registros de ventas. Cada fila representa una operación de financiamiento realizada a un cliente.
+La base de datos debe incluir las siguientes columnas: * ID_Venta, * Cliente,* Tipo_Equipo,* Precio_Equipo, * Prima,* Monto_Financiado,* Tasa_Interes,* Plazo_Meses,* Cuota_Mensual,* Estado_Pago, * Ganancia
+
+Al iniciar, el sistema debe leer automáticamente el archivo Excel fila por fila y realizar los siguientes procesos financieros y estadísticos:
+* Calcular la cuota mensual usando la función financiera PAGO. * Determinar si la venta es “Rentable” o “No rentable” utilizando la función SI. * Calcular el total de ventas usando SUMA.* Obtener el promedio de cuotas usando PROMEDIO.* Identificar la venta más alta y más baja usando MAX y MIN.
+* Contar cuántos equipos se vendieron por categoría utilizando CONTAR. SI. Además, el programa debe evaluar automáticamente si cada financiamiento genera ganancias suficientes para considerarse rentable. Si la ganancia es mayor al valor establecido por la empresa, debe asignar la etiqueta “Rentable”; de lo contrario, “No rentable”.
+
+El sistema también debe generar: * Tablas dinámicas, * Gráficos dinámicos de ventas, * Comparación de cuotas mensuales,* Análisis de equipos más vendidos, * Resumen financiero general
+Posteriormente, el programa debe guardar todos los resultados en una nueva pestaña llamada Resultados dentro del mismo archivo Excel, sin modificar ni eliminar la información original de la pestaña dataset.
+Finalmente, el sistema debe mostrar un mensaje en pantalla indicando que el análisis financiero se realizó correctamente y que los resultados fueron guardados exitosamente en el archivo Excel.
