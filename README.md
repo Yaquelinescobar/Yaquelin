@@ -1,8 +1,8 @@
 # Taller02
 UNIVERSIDAD NACIONAL DE EL SALVADOR FACULTAD DE CIENCIAS ECONÓMICA, ESCUELA DE CONTADURIA PUBLICA 
-Trabajo Taller02
-Grupo téorico 7
-Equipo03
-Integrantes 
+#Trabajo Taller02
+#Grupo téorico 7
+#Equipo03
+#Integrantes 
 
 
